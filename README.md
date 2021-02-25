@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a C++ programmer interested in Videogames development and Aerospace engineering.
+
 🔭 I’m currently working on un Unreal Engine 4 game.
 
 🌱 I’m currently learning game engine development and 3d graphics api.
