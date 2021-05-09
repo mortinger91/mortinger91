@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a C++ programmer interested in Videogames development and Aerospace engineering.
+I'm a C++ programmer interested in Videogames, Aerospace engineering and Cryptos.
 
-🔭 I’m currently working on un Unreal Engine 4 game.
+🔭 I’m currently working on an Unreal Engine 4 game.
 
-🌱 I’m currently learning game engine development and 3d graphics api.
+🌱 I’m currently learning game engine development and 3d graphics programming.
 
 💬 Ask me about C++ and object oriented programming.
 
