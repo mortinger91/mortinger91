@@ -1,25 +1,11 @@
 ### Hi there 👋
 
-I'm a C++ programmer interested in Videogames development, Aerospace engineering and Blockchain.
+I'm a Software Developer with 4 years of work experience interested in Software Architecture and Engineering, 3D Graphics and Blockchain technology.
 
-🔭 I’m currently working on an Unreal Engine 4 game and an OpenGL game engine.
+✏️ Languages I frequently use: C++, C#, C, Python
 
-🌱 I’m currently learning game engine development and 3D graphics programming.
+🔭 I’m currently learning Software Architecture and Design, Game engine development and 3D Graphics programming and I’m currently working on an Unreal Engine 4 game and an OpenGL game engine
 
-💬 Ask me about C++ and object oriented programming.
+💬 Ask me about C++ and object oriented programming
 
-📫 How to reach me: my email is micheleemiliani91@gmail.com.
-
-<!--
-**mortinger91/mortinger91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  ...
-- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: my email is: micheleemiliani91@gmail.com, my Linkedin profile is: https://www.linkedin.com/in/michele-emiliani/
