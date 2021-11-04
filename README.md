@@ -8,4 +8,4 @@ I'm a Software Developer with 4 years of work experience interested in Software 
 
 💬 Ask me about C++ and object oriented programming
 
-📫 How to reach me: my email is: micheleemiliani91@gmail.com, my Linkedin profile is: https://www.linkedin.com/in/michele-emiliani/
+📫 My email: micheleemiliani91@gmail.com, my Linkedin profile: https://www.linkedin.com/in/michele-emiliani/
