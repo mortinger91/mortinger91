@@ -2,17 +2,17 @@
 
 ## About me
 
-I'm a Software Developer with 5 years of work experience passionate about Software Architecture, Blockchain and 3D Graphics.
+I am a Software Engineer with 5 years of work experience passionate about Software Architecture, Blockchain and 3D Graphics.
 
 I enjoy using Linux, Open source (and Free) software, tinker with IoT devices and widen my knowledge about Cybersecurity exploits, binary decompilation, network protocols, emulators, Game engines, graphic libraries and much more.
 
-I’m currently learning Rust and OpenGL. 
+In my spare time I am currently learning about Blockchian, Rust and OpenGL. 
 
 ## Tech stack
 
-✏️ Languages: C++, C#, C, Python, PHP, Javascript
+✏️ Languages: C++, C#, C, Python, PHP, Javascript, Rust.
 
-🎮 Game engines: UE4, UE5
+🎮 Game engines: UE4, UE5.
 
 ## Contacts
 
