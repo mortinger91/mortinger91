@@ -2,23 +2,23 @@
 
 ## About me
 
-I am a Software Engineer with 5 years of work experience passionate about Software Architecture, Networking and Blockchain technology.
+I am a Software Engineer with 5 years of work experience passionate about Software Architecture, Networking and Blockchain.
 
-My favourite programming language is C++ and my favourite platform is Linux, but I do also work on all the other desktop platform and with other languages.
+I like system languages and I code mainly in C++.
+I develop on all the desktop platforms, using Linux whenever is possible.
 
 I love and strongly believe in Free and Open source software ❤️
 
-In my spare time I like to tinker with IoT devices, try out different configurations and research about topics such as:
-- cybersecurity
+In my spare time I like to code, study and tinker with IoT devices.
+Here are (some of) the topics I am interested in:
+- cybersecurity/privacy
 - advanced networking
 - binary decompilation
-- emulators
-- 3D graphics
-- game engines
-- graphic libraries
-- new programming languages
-- modern coding best practices
+- emulation/virtualization
+- coding best practices
 - computer hardware
+- game engines
+- 3D graphics
 
 ## Tech stack
 
@@ -30,7 +30,7 @@ In my spare time I like to tinker with IoT devices, try out different configurat
 
 ## Contacts
 
-Feel free to contact me, even for a chat, on my email and Linkedin profile:
+Feel free to contact me on my email and Linkedin profile:
 
 📧 micheleemiliani91@gmail.com
 
