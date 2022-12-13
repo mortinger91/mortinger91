@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Software Engineer with 5 years of work experience passionate about Software Architecture, Networking and Blockchain.
+I am a Software Engineer with 5+ years of work experience passionate about Software Architecture, Networking and Blockchain.
 
 I like system languages and I code mainly in C++. <br>
 I develop on all the desktop platforms, using Linux whenever is possible.
@@ -22,7 +22,7 @@ Here are (some of) the topics I am interested in:
 
 ## Tech stack
 
-✏️ Languages: C++, C, C#, Bash scripting, Python, Javascript, Rust, PHP, Ruby.
+✏️ Languages: C++, C, C#, Bash scripting, Python, Javascript, Rust, PHP, Ruby, Swift.
 
 🎮 Game engines: UE4, UE5.
 
