@@ -10,7 +10,7 @@ I develop on all the desktop platforms, using Linux whenever is possible.
 I love and strongly believe in Free and Open source software ❤️
 
 In my spare time I like to code, study and tinker with IoT devices. <br>
-Here are (some of) the topics I am interested in:
+Here are the topics I am most interested in:
 - cybersecurity/privacy
 - advanced networking
 - binary decompilation
