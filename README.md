@@ -9,7 +9,6 @@ I develop on all the desktop platforms, using Linux whenever is possible.
 
 I love and strongly believe in Free and Open source software ❤️
 
-In my spare time I like to code, study and tinker with IoT devices. <br>
 Here are the topics I am most interested in:
 - cybersecurity/privacy
 - advanced networking
@@ -22,7 +21,7 @@ Here are the topics I am most interested in:
 
 ## Tech stack
 
-✏️ Languages: C++, C, C#, Bash scripting, Python, Javascript, Rust, PHP, Ruby, Swift.
+✏️ Languages: C++, C, C#, Bash, Rust, Swift, Ruby, Python, PHP, Javascript.
 
 🎮 Game engines: UE4, UE5.
 
@@ -30,7 +29,7 @@ Here are the topics I am most interested in:
 
 ## Contacts
 
-Feel free to contact me on my email and Linkedin profile:
+Feel free to contact me via email or Linkedin:
 
 📧 micheleemiliani91@gmail.com
 
