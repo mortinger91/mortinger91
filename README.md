@@ -14,7 +14,7 @@ Here are the topics I am most interested in:
 - advanced networking
 - binary decompilation
 - emulation/virtualization
-- coding best practices
+- coding best practices/patterns
 - computer hardware
 - game engines
 - 3D graphics
