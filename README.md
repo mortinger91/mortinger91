@@ -2,12 +2,11 @@
 
 ## About me
 
-I am a Software Engineer with 5+ years of work experience passionate about Software Architecture, Networking and Blockchain.
+I am a Software Engineer passionate about Software Architecture, Networking and Blockchain.
 
-I like system languages and I code mainly in C++. <br>
-I develop on all the desktop platforms, using Linux whenever is possible.
-
-I love and strongly believe in Free and Open source software ❤️
+I like system languages and I code mainly in C++.<br>
+I develop on all the desktop platforms, using Linux whenever is possible.<br>
+I love and strongly support Free and Open source software ❤️
 
 Here are the topics I am most interested in:
 - cybersecurity/privacy
