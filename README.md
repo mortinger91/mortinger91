@@ -20,7 +20,7 @@ Here are the topics I am most interested in:
 
 ## Tech stack
 
-✏️ Languages: C++, C, C#, Bash, Rust, Swift, Ruby, Python, PHP, Javascript.
+✏️ Languages: C++, C, C#, Bash, Rust, Swift, Ruby, Python, PHP, Javascript, Go.
 
 🎮 Game engines: UE4, UE5.
 
