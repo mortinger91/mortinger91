@@ -11,6 +11,7 @@ I love and strongly support Free and Open source software ❤️
 Here are the topics I am most interested in:
 - cybersecurity/privacy
 - advanced networking
+- BPF/eBPF
 - binary decompilation
 - emulation/virtualization
 - coding best practices/patterns
