@@ -23,6 +23,8 @@ Here are the topics I am most interested in:
 
 ✏️ Languages: C++, C, C#, Bash, Rust, Swift, Ruby, Python, PHP, Javascript, Go.
 
+🎨 GUI libraries: Qt.
+
 🎮 Game engines: UE4, UE5.
 
 🎆 Graphic libraries: OpenGL.
