@@ -10,21 +10,23 @@ I love and strongly support Free and Open source software ❤️
 
 Here are the topics I am most interested in:
 - cybersecurity and privacy
-- proxies and firewalls technology
+- proxies and firewalls
 - async event-based non-blocking I/O
 - ipv6
 - BPF/eBPF
 - blockchain and crypto
 - binary decompilation
 - emulation/virtualization
-- coding best practices and patterns
-- computer hardware
-- game engines
+- coding patterns
+- IoT devices
 - 3D graphics
+- game engines
+- game modding
+- HDR, LUTs, color grading
 
 ## Tech stack
 
-✏️ Languages: C++, Swift, C, Rust, Bash, C#, Ruby, Python, PHP, Javascript, Go.
+✏️ Languages: C++, C, Swift, Rust, Bash, C#, Ruby, Python, PHP, Javascript, Go.
 
 🎨 GUI libraries: Qt, imgui.
 
@@ -44,7 +46,7 @@ Check out the repo here: https://github.com/pia-foss/mac-split-tunnel
 
 ## Contacts
 
-Feel free to contact me for work-related stuff, or just for a chat!
+Feel free to contact me for work-related or fun stuff!
 
 📧 Email: micheleemiliani91@gmail.com
 
