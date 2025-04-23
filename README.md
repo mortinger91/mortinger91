@@ -2,7 +2,7 @@
 
 ## whoami
 
-I am a Software Engineer passionate about Software Architecture, Network Engineering and Graphics.
+I am a Software Engineer passionate about Software Architecture, Network Engineering and 3D Graphics.
 
 I like system languages and I code mainly in C++.  
 I develop on all desktop platforms, using Linux whenever is possible.  
